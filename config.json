@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersrocess",
+        "uuid": 195890,
+        "checksum": "jn04is"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
